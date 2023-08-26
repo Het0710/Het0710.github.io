@@ -8,7 +8,7 @@
 
 
 ## 授業内資料
-* 基礎解析学:  [解析学練習問題](https://github.com/Het0710/Het0710.github.io/blob/main/解析学_まとめ.pdf)
+* 基礎解析学$a$:  [解析学練習問題](https://github.com/Het0710/Het0710.github.io/blob/main/解析学_まとめ.pdf)
 
 * 古典力学
 
