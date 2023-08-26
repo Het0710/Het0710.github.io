@@ -3,7 +3,7 @@
 令和５年度オナーセミナー研究および物理学授業内資料を公開しております．
 
 ## 研究資料: 単極子場の量子化とその対称性
-* 単極子場のゲージ理論：[present.pdf](Het0710.github.io/present.pdf)
+* 単極子場のゲージ理論：[present.pdf]([Het0710.github.io/present.pdf](https://github.com/Het0710/Het0710.github.io/blob/main/present.pdf))
 * 共変量子化：
 
 
