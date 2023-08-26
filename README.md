@@ -16,7 +16,9 @@
   
 　　-力学詳論試験問題解説（花咲）: [力学詳論Ⅰ](https://github.com/Het0710/Het0710.github.io/blob/main/力学詳論.pdf)
 
-　　-連鎖振動: [連性振動のポテンシャル対角化問題](https://github.com/Het0710/Het0710.github.io/blob/main/Coupled%20Oscillator.pdf) ,                 [固定端連性振動](https://github.com/Het0710/Het0710.github.io/blob/main/力学_10.pdf), [単純連性振動(N=2)](https://github.com/Het0710/Het0710.github.io/blob/main/基礎解析学ff.pdf) , [長波長近似と波動方程式](https://github.com/Het0710/Het0710.github.io/blob/main/力学11.pdf)     
+　　-連鎖振動: [連性振動のポテンシャル対角化問題](https://github.com/Het0710/Het0710.github.io/blob/main/Coupled%20Oscillator.pdf) ,                 [固定端連性振動](https://github.com/Het0710/Het0710.github.io/blob/main/力学_10.pdf), [単純連性振動(N=2)](https://github.com/Het0710/Het0710.github.io/blob/main/基礎解析学ff.pdf)  
+
+　　-波動方程式: [長波長近似と波動方程式](https://github.com/Het0710/Het0710.github.io/blob/main/力学11.pdf)    
   　　　　　　　
 * 電磁気学
 
