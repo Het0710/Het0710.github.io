@@ -24,7 +24,7 @@
 
 
 
-##公式集##
+##Gauge transformations##
 * U(1)ゲージ対称性
 ```math
 \psi(x^\mu)\ \mapsto \ \psi'(x^\mu)=e^{-iq_\psi\Lambda(x^\mu)}\psi(x^\mu)\ ,\ \ \ A_\mu\ \mapsto\ A'_\mu=A_\mu+\partial_\mu \Lambda(x^\mu)\ , \ \ \ D_\mu\equiv \partial_\mu+iq_\psi A_\mu
