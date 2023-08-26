@@ -13,5 +13,5 @@
 * 古典力学：　　中心力様々- 
   　　　　　　　連鎖振動-
   　　　　　　　
-* 電磁気学：   Maxwell方程式-
+* 電磁気学：   Maxwell方程式-[真空中の電磁気学まとめ](https://github.com/Het0710/Het0710.github.io/blob/main/EM_classical_fields.pdf)
   
