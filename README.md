@@ -14,5 +14,7 @@
          
 -連鎖振動: [連性振動のポテンシャル対角化問題](https://github.com/Het0710/Het0710.github.io/blob/main/Coupled%20Oscillator.pdf) ,                 [固定端連性振動](https://github.com/Het0710/Het0710.github.io/blob/main/力学_10.pdf), [単純連性振動(N=2)](https://github.com/Het0710/Het0710.github.io/blob/main/基礎解析学ff.pdf) , [長波長近似と波動方程式](https://github.com/Het0710/Het0710.github.io/blob/main/力学11.pdf)     
   　　　　　　　
-* 電磁気学：   Maxwell方程式-[真空中の電磁気学まとめ](https://github.com/Het0710/Het0710.github.io/blob/main/EM_classical_fields.pdf)
+* 電磁気学:   Maxwell方程式-[真空中の電磁気学まとめ](https://github.com/Het0710/Het0710.github.io/blob/main/EM_classical_fields.pdf)
+
+* 特集相対論（ミンコフスキー図表）: [光速不変性](https://github.com/Het0710/Het0710.github.io/blob/main/相対論.pdf)
   
