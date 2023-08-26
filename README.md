@@ -21,4 +21,16 @@
 * 電磁気学:   Maxwell方程式-[真空中の電磁気学まとめ](https://github.com/Het0710/Het0710.github.io/blob/main/EM_classical_fields.pdf)
 
 * 特集相対論（ミンコフスキー図表）: [光速不変性](https://github.com/Het0710/Het0710.github.io/blob/main/相対論.pdf)
+
+
+
+
+
+
+
+**The Cauchy-Schwarz Inequality**
+
+```math
+\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)
+```
   
