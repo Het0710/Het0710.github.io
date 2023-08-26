@@ -10,8 +10,12 @@
 
 
 ## 授業内資料
-* 古典力学：　　中心力様々- 
-  　　　　　　　連鎖振動-[連性振動のポテンシャル対角化問題](https://github.com/Het0710/Het0710.github.io/blob/main/Coupled%20Oscillator.pdf)
+* 古典力学
+
+-中心力問題: 
+  　　　　　　　
+         
+-連鎖振動: [連性振動のポテンシャル対角化問題](https://github.com/Het0710/Het0710.github.io/blob/main/Coupled%20Oscillator.pdf)           
   　　　　　　　
 * 電磁気学：   Maxwell方程式-[真空中の電磁気学まとめ](https://github.com/Het0710/Het0710.github.io/blob/main/EM_classical_fields.pdf)
   
