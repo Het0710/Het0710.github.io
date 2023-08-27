@@ -3,6 +3,8 @@
 ## 研究Ⅰ: 単極子場の量子化とその対称性
 * 単極子場のゲージ理論：[研究報告](https://github.com/Het0710/Het0710.github.io/blob/main/present.pdf)
 
+###### （8/28更新）次回のセミナー資料です。「電子-Dyon相互作用」をSU(2)モデルで表現しようとしています。
+
 ## 研究Ⅱ: 共変量子化と第一量子化
 * 相対論・群論基礎まとめ&共変量子化：[共変量子化](https://github.com/Het0710/Het0710.github.io/blob/main/Onor2023.pdf)
 
