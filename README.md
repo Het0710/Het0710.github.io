@@ -32,7 +32,7 @@
 
 その他質問等がありましたら事務局までお問い合わせください。
 
-###### **（8/29更新）発表概要を書きましたのでこちらもご検討ください:**      [発表概要](https://github.com/Het0710/Het0710.github.io/blob/main/report.pdf) ###### 
+ **（8/29更新）発表概要を書きましたのでこちらもご検討ください:**      [発表概要](https://github.com/Het0710/Het0710.github.io/blob/main/report.pdf) 
 
 
 ## オナーセミナー研究発表会のスケジュール
