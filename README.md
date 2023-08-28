@@ -33,6 +33,10 @@
 
 その他質問等がありましたら事務局までお問い合わせください。
 
+**（8/29更新）発表概要を書きましたのでこちらもご検討ください。**
+
+[発表概要](https://github.com/Het0710/Het0710.github.io/blob/main/report.pdf)
+
 
 ## 研究Ⅰ: 単極子場の量子化とその対称性
 * 単極子場のゲージ理論：[研究報告](https://github.com/Het0710/Het0710.github.io/blob/main/present.pdf)
