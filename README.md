@@ -28,7 +28,13 @@
 * 特集相対論（ミンコフスキー図表）: [光速不変性](https://github.com/Het0710/Het0710.github.io/blob/main/相対論.pdf)
 
 * 量子力学:
+
+
   -spinについて: [spinの合成](https://github.com/Het0710/Het0710.github.io/blob/main/名称未設定.pdf)
+
+  -水素原子のフォック空間的アプローチ: [水素原子(非相対論的)](https://github.com/Het0710/Het0710.github.io/blob/main/名称未設定2.pdf)
+
+  
   
 
 ## ドドセミナー資料(りゼミ3rd・数物セミナー28th・spmAd6th)
