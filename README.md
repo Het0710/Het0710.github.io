@@ -47,7 +47,7 @@
 
 ## ドド研究(2023オナーセミナー)
 
-* ディラック量子化の幾何学的アプローチ: [ドド量子化](https://github.com/Het0710/Het0710.github.io/blob/main/最終レポ.pdf)
+* ディラック量子化の幾何学的アプローチ: [ドド量子化](https://github.com/Het0710/Het0710.github.io/blob/main/最終レポ_OnogiG.pdf)
 
 * The Theory of Relation between Creation-Annihilation and Statistics: [The Theory of Creation-Annihilation](https://github.com/Het0710/Het0710.github.io/blob/main/aps.pdf)
 
