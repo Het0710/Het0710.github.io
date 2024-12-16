@@ -42,7 +42,7 @@
 
 * QFT(ディラック場の古典論): 
 
-* (12/13)特別講演(古典力学からシュワルツシルトブラックホールの理論まで): [初歩的一般相対論](https://github.com/Het0710/Het0710.github.io/blob/main/ドド講演.pdf)
+* (12/13)特別講演(古典力学からシュワルツシルトブラックホールの理論まで): [初歩的一般相対論](https://github.com/Het0710/Het0710.github.io/blob/main/Schwarzchild計量の古典.pdf)
 
 
 ## ドド研究(2023オナーセミナー)
