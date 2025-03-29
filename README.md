@@ -1,5 +1,4 @@
 
-###### （9/5 8時更新）次回のセミナー資料です。微分形式を導入しました。Witten効果が確認できました　**9/5のセミナー資料です。**
 
 * 単極子場のゲージ理論：[オナー最終報告書](https://github.com/Het0710/Het0710.github.io/blob/main/apsguide4-2.pdf)
 
@@ -45,11 +44,11 @@
 * (12/13)特別講演(古典力学からシュワルツシルトブラックホールの理論まで): [初歩的一般相対論](https://github.com/Het0710/Het0710.github.io/blob/main/Schwarzchild計量の古典.pdf)
 
 
-## ドド研究(2023オナーセミナー)
+## 2025 素粒子論グループ(大野木G)
 
-* ディラック量子化の幾何学的アプローチ: [ドド量子化](https://github.com/Het0710/Het0710.github.io/blob/main/最終レポ_OnogiG.pdf)
+#### 素粒子論グループ合同ゼミ
 
-* The Theory of Relation between Creation-Annihilation and Statistics: [The Theory of Creation-Annihilation](https://github.com/Het0710/Het0710.github.io/blob/main/aps.pdf)
+*場の量子論(QED+QCD)ノート: 　
 
   
 
