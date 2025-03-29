@@ -48,7 +48,7 @@
 
 #### 素粒子論グループ合同ゼミ
 
-*　場の量子論(QED+QCD)ノート: 　
+*　場の量子論(QED+QCD)ノート: [Quantum Theory of Gauge Field Notes](https://github.com/Het0710/Het0710.github.io/blob/main/M41.pdf)
 
   
 
