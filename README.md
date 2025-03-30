@@ -3,6 +3,11 @@
 * 単極子場のゲージ理論：[オナー最終報告書](https://github.com/Het0710/Het0710.github.io/blob/main/apsguide4-2.pdf)
 
 
+## 2025 素粒子論グループ(大野木G)
+
+#### 素粒子論グループ合同ゼミ
+
+* 場の量子論(QED+QCD)ノート: [Quantum Theory of Gauge Field Notes](https://github.com/Het0710/Het0710.github.io/blob/main/M42.pdf)
 
 ## 授業内資料
 * 基礎解析学:  [解析学練習問題](https://github.com/Het0710/Het0710.github.io/blob/main/解析学_まとめ.pdf)
@@ -44,11 +49,6 @@
 * (12/13)特別講演(古典力学からシュワルツシルトブラックホールの理論まで): [初歩的一般相対論](https://github.com/Het0710/Het0710.github.io/blob/main/Schwarzchild計量の古典.pdf)
 
 
-## 2025 素粒子論グループ(大野木G)
-
-#### 素粒子論グループ合同ゼミ
-
-* 場の量子論(QED+QCD)ノート: [Quantum Theory of Gauge Field Notes](https://github.com/Het0710/Het0710.github.io/blob/main/M42.pdf)
 
   
 
