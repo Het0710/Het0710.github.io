@@ -7,7 +7,7 @@
 
 #### 素粒子論グループ合同ゼミ
 
-* 場の量子論(QED+QCD)ノート: [Quantum Theory of Gauge Field Notes](https://github.com/Het0710/Het0710.github.io/blob/main/M54.pdf)  (R7/4/3, 21:34更新)
+* 場の量子論(QED+QCD)ノート: [Quantum Theory of Gauge Field Notes](https://github.com/Het0710/Het0710.github.io/blob/main/M57.pdf)  (R7/4/5, 01:27更新)
 
 ## 授業内資料
 * 基礎解析学:  [解析学練習問題](https://github.com/Het0710/Het0710.github.io/blob/main/解析学_まとめ.pdf)
