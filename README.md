@@ -3,10 +3,12 @@
 * 単極子場のゲージ理論：[オナー最終報告書](https://github.com/Het0710/Het0710.github.io/blob/main/apsguide4-2.pdf)
 
 
+
 ## 2025 素粒子論グループ(大野木G)
 
 #### 素粒子論グループ合同ゼミ
-
+#### 西岡ゼミ
+* 場の量子論(Lorentz群の表現論): [Structure of Lorentz groups](https://github.com/Het0710/Het0710.github.io/blob/main/seminor_qft_1.pdf)  (R7/4/13, 05:12更新)
 * 場の量子論(QED+QCD)ノート: [Quantum Theory of Gauge Field Notes](https://github.com/Het0710/Het0710.github.io/blob/main/M57.pdf)  (R7/4/5, 01:27更新)
 
 ## 授業内資料
