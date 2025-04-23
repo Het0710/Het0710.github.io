@@ -31,7 +31,7 @@
 
   -極座標ラプラシアン簡単に計算する幾何学的方法: [ドドラプシアン](https://github.com/Het0710/Het0710.github.io/blob/main/D.pdf)
 
-  -世界一優しいベクトル解析学: [ドドベクトル解析](https://github.com/Het0710/Het0710.github.io/blob/main/ベクトル解析.pdf)
+  -世界一優しいベクトル解析学: [ドドベクトル解析](https://github.com/Het0710/Het0710.github.io/blob/main/Vectorcal.pdf)
 
 ### 電磁気現象論
 
