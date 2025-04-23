@@ -25,7 +25,7 @@
 　　-波動方程式: [長波長近似と波動方程式](https://github.com/Het0710/Het0710.github.io/blob/main/力学11.pdf)    
   　　　　　　　
 * 電磁気学
-
+  -極座標ラプラシアン簡単に計算する幾何学的方法: [ドドラプシアン](https://github.com/Het0710/Het0710.github.io/blob/main/ドドのラプラシアン.pdf)
   
   -Maxwell方程式: [真空中の電磁気学まとめ](https://github.com/Het0710/Het0710.github.io/blob/main/EM_classical_fields.pdf)
 
