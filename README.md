@@ -11,6 +11,9 @@
 * 場の量子論(Lorentz群の表現論): [Structure of Lorentz groups](https://github.com/Het0710/Het0710.github.io/blob/main/seminor_qft_1.pdf)  (R7/4/13, 05:12更新)
 * 場の量子論(QED+QCD)ノート: [Quantum Theory of Gauge Field Notes](https://github.com/Het0710/Het0710.github.io/blob/main/M57.pdf)  (R7/4/5, 01:27更新)
 
+#### 一般相対論(大野木哲也)
+* レポート(テンソル、変換性、計量): [The Metric](https://github.com/Het0710/Het0710.github.io/blob/main/GR7.pdf)  (R7/5/24, 6:58更新)
+
 ## 授業内資料
 * 基礎解析学:  [解析学練習問題](https://github.com/Het0710/Het0710.github.io/blob/main/解析学_まとめ.pdf)
 
