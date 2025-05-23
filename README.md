@@ -13,6 +13,7 @@
 
 #### 一般相対論(大野木哲也)
 * レポート(テンソル、変換性、計量): [The Metric](https://github.com/Het0710/Het0710.github.io/blob/main/GR7.pdf)  (R7/5/24, 6:58更新)
+* レポート(レヴィ＝チビタ接続): [Levi-Civita](https://github.com/Het0710/Het0710.github.io/blob/main/GRSR2.pdf)  (R7/5/24, 7:00更新)
 
 ## 授業内資料
 * 基礎解析学:  [解析学練習問題](https://github.com/Het0710/Het0710.github.io/blob/main/解析学_まとめ.pdf)
