@@ -64,7 +64,7 @@
 
 
 ## 盧すんもくの震えろ院試ゼミ
-* 京大2020:
+* 京大2020: [ROh](https://github.com/Het0710/Het0710.github.io/blob/main/盧大2020.pdf)
 
   
 
